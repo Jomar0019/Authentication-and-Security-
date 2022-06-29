@@ -1,0 +1,22 @@
+
+body {
+  /* background-color: #E8ECEF; */
+  background: #fff;
+  padding: 2% 5%;
+}
+  
+.con-box {
+    min-height: 90vh;
+    display: grid;
+    place-items: center;
+    text-align: center;
+    background-color: #E8ECEF;
+}
+  
+  .secret-text {
+    text-align: center;
+    font-size: 2rem;
+    color: #fff;
+    background-color: #000;
+  }
+  
